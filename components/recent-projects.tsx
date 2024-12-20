@@ -19,7 +19,7 @@ export const RecentProjects = () => {
           ({ id, iconLists, img, link, title }) => (
             <div
               key={id}
-              className="flex h-[32rem] w-[90vw] items-center justify-center sm:h-[41rem] sm:w-[570px] lg:min-h-[32.5rem]"
+              className="flex h-[32rem] w-[60vw] items-center justify-center sm:h-[41rem] sm:w-[570px] lg:min-h-[32.5rem]"
             >
               <PinContainer title="Visit" href={link}>
                 <div className="relative mb-10 flex h-[30vh] w-[80vw] items-center justify-center overflow-hidden sm:h-[40vh] sm:w-[570px]">
