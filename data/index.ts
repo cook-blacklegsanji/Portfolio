@@ -247,13 +247,13 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "https://github.com/BlackLegSanji124",
+    link: "https://github.com/cook-blacklegsanji",
   },
-  {
-    name: "LinkedIn",
-    img: "/link.svg",
-    link: "https://www.linkedin.com/in/jonny-steven-perdomo-virguez-999a70317/",
-  },
+  // {
+  //   name: "LinkedIn",
+  //   img: "/link.svg",
+  //   link: "https://www.linkedin.com/in/jonny-steven-perdomo-virguez-999a70317/",
+  // },
 ] as const;
 
 export const techStack = {

@@ -49,7 +49,7 @@ export const Footer = () => {
         <p className="text-sm font-light md:text-base md:font-normal">
           Copyright &copy; {new Date().getFullYear()}{" "}
           <Link   
-            href="https://github.com/BlackLegSanji124"
+            href="https://github.com/cook-blacklegsanji"
             target="_blank"
             rel="noreferrer noopener"
             className="text-purple"

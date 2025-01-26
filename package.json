@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "Jonny Steven Perdomo Virguez <davidcivello0@gmail.com> (https://github.com/BlackLegSanji124)",
+  "author": "Jonny Steven Perdomo Virguez <davidcivello0@gmail.com> (https://github.com/cook-blacklegsanji)",
   "description": "Modern & Minimalist Next.js Portfolio.",
   "keywords": [
     "reactjs",
@@ -53,11 +53,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackLegSanji124"
+    "url": "https://github.com/cook-blacklegsanji"
   },
-  "homepage": "https://github.com/BlackLegSanji124",
+  "homepage": "https://github.com/cook-blacklegsanji",
   "bugs": {
-    "url": "https://github.com/BlackLegSanji124",
+    "url": "https://github.com/cook-blacklegsanji",
     "email": "davidcivello0@gmail.com"
   },
   "funding": [
